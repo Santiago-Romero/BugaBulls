@@ -1,6 +1,6 @@
 ## Proyecto Para Asignatura "Desarrollo de Software 1 y 2"
 ##### Java "from scratch" :coffee:
-##### Mysql :dolphin:
+##### Mysql :dolphin: se hace uso de persistencia de datos (no muy común)
 ##### Se puede apreciar uso de modelo vista controlador y orientado a ser aplicación de escritorio con liberias como swing
 #### Aplicación grande con amplia cantidad de aspectos como:
 - Manejo de diferentes tipos de usuarios y sesiones
